@@ -18,4 +18,4 @@
     <td>20</td>
   </tr>
 </table>
-As seen in the table above, most students have their work regularly published in some kind of publication. The class data reveals that most of us have journalism experience, which makes sense since we are all journalism majors. Most students also work for on-campus publications like <a href="https://www.theeagleonline.com/">The Eagle </a> and <a href="https://thewash.org/">The Wash</a>.
+As seen in the table above, most students have their work regularly published in some kind of publication. The class data reveals that most of us have journalism experience, which makes sense since we are all journalism majors. Most students also work for on-campus publications like <a href="https://www.theeagleonline.com/">The Eagle </a> and <a href="https://thewash.org/">The Wash</a>, which would explain their experience with regular publication. 
