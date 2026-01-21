@@ -22,5 +22,7 @@
       <td>18</td>
 </table>
 Before entering the first section of COMM 418, these students were tasked with completing a survey answering a few questions about their knowledge of collecting data and their experience in journalism, thus far in their careers. Among the few questions students were asked, they had to rank the degree to which their journalistic work had been published on a scale of zero to four. Zero represents a lack of publishing experience, while four represents a regular publishing experience.   
+
 As seen in the table above, most students have their work regularly published in some kind of publication. No students asserted they have had no reporting experience, but about five of the 18 students who completed the survey aligned with the publishing experience represented by a degree of four. Alternatively, 10 of the 18 students fell between a two or a three, meaning they get published a fair amount but not extremely often. The class data reveals that most of us have journalism experience, which makes sense since we are all journalism majors. Most students also work for on-campus publications like <a href="https://www.theeagleonline.com/">The Eagle </a> and <a href="https://thewash.org/">The Wash</a>, which would explain their experience with regular publication. 
+  
 However, per table 
