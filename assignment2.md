@@ -1,7 +1,8 @@
 # Assignment #2: Question & (start to) andswer 
-## Question: How many college campuses arm their local police officers? 
+## Question: How many college campuses arm their campus police officers? 
 ### Potential data set: <a href="https://bjs.ojp.gov/library/publications/campus-law-enforcement-agencies-serving-4-year-institutions-2021-2022">Campus Law Enforcement Agencies Serving 4-year Institutions, 2021-2022 – Statistical Tables</a> 
-According to a Survey of Campus Law Enforcement Agencies (CLEA) conducted by the Bureau of Justice Statistics in 2021 and 2022, 95 percent of CLEA serving four-year institutions with 1,000 or more full-time students authorized the use of handguns for their campus police. This survey also collected data on agency staffing, operations, budget, policies, responsibilities, training and equipment. 
+Dear Editor, 
+This story will explore, among other questions, how many college campuses arm their campus police officers. According to a Survey of Campus Law Enforcement Agencies (CLEA) conducted by the Bureau of Justice Statistics in 2021 and 2022, 95 percent of CLEA serving four-year institutions with 1,000 or more full-time students authorized the use of handguns for their campus police. This survey also collected data on agency staffing, operations, budget, policies, responsibilities, training and equipment. 
 
 This data set was published in 2024 as part of a series on Campus Law Enforcement authored by Elizabeth Davis, a BJS statistician. Beyond the data summary the BJS provided, I also looked at the raw data collection they provided as a zip file on its webpage. This shows each survey that was conducted, as well as the standard errors in their survey collection and data. The BJS also clearly indicates which numbers are mere estimates and what specific dates and time periods apply to which data sets. The data also indicates a confidence level of about 95 percent, meaning Davis and whoever else from the BJS who worked on this survey and data collection are confident in the results provided by the survey.  
 
