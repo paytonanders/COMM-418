@@ -1,1 +1,7 @@
+# Final Project Pitch 
+After completing Assignment 3, my final project pitch includes an extension of the work I have done there with the data set I received from Open Data DC. Considering our current political climate and how DC, as a city, has been portrayed by President Donald Trump in the past year, looking into MPD’s policing practices in 2024 is very relevant to today.  
+
+Last year, I reported on an audit from the Office of the DC Auditor that showed MPD was lacking in having and enforcing its annual bias training, which may be reflected in the data on the use-of-force and arrests made in 2024. In this final project, I will report on how this data reveals discrepancies in MPD as a whole, specifically its gender makeup, and the correlation between police assigned to Ward 7 and the number of use-of-force and arrest reports made in that ward. I would also find and collect more data from past years to compare to this year and see if there are any major differences between them, as there was a reported major drop in crime overall in 2024. 
+
+Beyond the data, experts to interview would include scholars in the criminal justice and law sector, as well as sources from MPD itself. I would also investigate what constitutes use-of-force and how that is taught to officers in training and returning ones. In my previous reporting, I connected with DEI experts and anti-bias training advocates to hear their thoughts on potential reform approaches for police departments and its anti-bias trainings. A similar approach could be taken for this article as well. 
 
