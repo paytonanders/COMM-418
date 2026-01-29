@@ -4,7 +4,7 @@
 ### HED: 2024 Use of Force Data Suggests Holes in MPD's Annual Bias Trainings 
 <img width="601" height="374" alt="Screenshot 2026-01-29 at 1 34 23 PM" src="https://github.com/user-attachments/assets/195b13e9-f2ad-409b-b456-057ad921658e" />
 
-The Metropolitan Police Department has long prided itself on being one of the most diverse police departments in the country, but the recent use-of-force data from 2024 raises concerns about how MPD is practicing unbiased policing. 
+The Metropolitan Police Department has long prided itself on being one of the most diverse police departments in the country, but the recent use of force data from 2024 raises concerns about how MPD is practicing unbiased policing. 
 
 Following an audit from the Office of the D.C. Auditor conducted last year, MPD was found lacking in anti-racial-bias training. According to a report from Open Data D.C., 92 percent of MPD’s reported cases of use of force and arrests were Black. [Name 1] said this is not uncommon for the department, as in 2023 and 2022, X and X percent were X. 
 
@@ -32,7 +32,7 @@ Though [Name 1] said the overpolicing of wards is a major concern, it is not a n
 
 “Quote that supports this,” [Name 2] said. 
 
-The data shows that nearly 77 percent of the officers had under 10 years of experience in the department, which [Name 2] said reflects how desperately these officers are in need of regular anti-bias training. 
+The data shows that nearly 77 percent of the officers had under 10 years of experience in the department, which [Name 2] said reflects how desperately these officers need regular anti-bias training. 
 
 “Quote on how young and old officers need training, but how newer officers especially need it so they don’t overstep and use force when not necessary,” [Name 2] said. 
 
