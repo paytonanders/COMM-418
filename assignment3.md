@@ -2,6 +2,8 @@
 ## <a href="https://mpdc.dc.gov/node/1582621">Original Data Source</a>
 ## <a href="https://docs.google.com/spreadsheets/d/1OZGcuszcQ27WL8VHglKfuKSPi4qlzA8OxfmN3N5qme0/edit?usp=sharing">My Data Analysis</a>
 ### HED: 2024 Use of Force Data Suggests Holes in MPD's Annual Bias Trainings 
+<img width="601" height="374" alt="Screenshot 2026-01-29 at 1 34 23 PM" src="https://github.com/user-attachments/assets/195b13e9-f2ad-409b-b456-057ad921658e" />
+
 The Metropolitan Police Department has long prided itself on being one of the most diverse police departments in the country, but the recent use-of-force data from 2024 raises concerns about how MPD is practicing unbiased policing. 
 
 Following an audit from the Office of the D.C. Auditor conducted last year, MPD was found lacking in anti-racial-bias training. According to a report from Open Data D.C., 92 percent of MPD’s reported cases of use of force and arrests were Black. [Name 1] said this is not uncommon for the department, as in 2023 and 2022, X and X percent were X. 
