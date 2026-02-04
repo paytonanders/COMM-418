@@ -8,10 +8,10 @@ California Secretary of State
 Dear California Secretary of State,
 
 Pursuant to the state open records law Cal. Gov't Code Secs. 7920 to 7931, I write to request access to and a copy of the following records for the most recent election cycle in the state of California: 
-• Poll worker training manuals, handbooks, guides, or instructional materials 
-• Training presentations, slide decks, videos, or online modules 
-• Written policies or procedures provided to poll workers regarding voter eligibility, ballot handling, provisional ballots, voter assistance, and election security 
-• Training materials addressing voter challenges, electioneering, accessibility requirements, or de-escalation procedures 
+* Poll worker training manuals, handbooks, guides, or instructional materials 
+* Training presentations, slide decks, videos, or online modules 
+* Written policies or procedures provided to poll workers regarding voter eligibility, ballot handling, provisional ballots, voter assistance, and election security 
+* Training materials addressing voter challenges, electioneering, accessibility requirements, or de-escalation procedures 
 Any updates, revisions, or guidance documents distributed to poll workers during this period I request that these records be provided in electronic format where possible (PDFs, slides, or other native digital formats). If your agency does not maintain these public records, please let me know who does and include the proper custodian's name and address.
 
 I agree to pay any reasonable copying and postage fees of not more than $100. If the cost would be greater than this amount, please notify me. Please provide a receipt indicating the charges for each document.
