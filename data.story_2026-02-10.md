@@ -1,1 +1,5 @@
-
+# Data Story 2026-02-10
+## <a href="https://www.nytimes.com/2026/01/30/dining/food-delivery-apps-doordash-uber.html">Freedom With a Side of Guilt: How Food Delivery Is Reshaping Mealtime</a> 
+### Publication: New York Times 
+### Date: Jan. 30, 2026
+This article does a good job of using a data set or data point from an outside source, but fills in the gaps with data collection of its own. The reporter started with a national statistic about people eating out more through services like DoorDash, even though it's crazy expensive. I wonder how the reporter tracked down the anecdotes and people used to humanize the data and tell a clear story of why people were ordering in so much. I also wonder why the reporter or the New York Times did not choose to include any data visualizations despite the large presence of data in the story itself. This is something I probably would have done. A heat map of what areas are ordering in the most in a specific city might have been interesting, or what specific dishes people ordered. Overall, this does show that a data story does not have to be a hard-hitting, deep-dive investigation to qualify as a data story.  
