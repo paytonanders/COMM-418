@@ -1,5 +1,5 @@
 # Data Story 2.24.26 
-##<a href="https://www.nbcnews.com/data-graphics/grocery-price-tracker-inflation-trends-eggs-bread-trump-administration-rcna257424">How grocery prices have changed since Trump took office</a>
-###Publication: NBC News
-###Date: 02.08.26
+## <a href="https://www.nbcnews.com/data-graphics/grocery-price-tracker-inflation-trends-eggs-bread-trump-administration-rcna257424">How grocery prices have changed since Trump took office</a>
+### Publication: NBC News
+### Date: 02.08.26
 This story tracks changes in the prices of eggs, bread, ground beef, chicken and other grocery items in the past few years, emphasizing a shift when Trump took office in 2024. Using items like these, especially eggs, is a relevant way to monitor the impact on consumers’ food bills. Grocery prices rise each year, but using several trend lines to explain why these past few years have seen such a dramatic shift was a smart choice by the reporters. I especially like that the reporters will be updated twice a month to continue reflecting economic changes in a more digestible way. What I would do differently would be to include other data points to highlight, not just the same few pieces in various ways. Although that is helpful for readers, since the story lacks in written reporting, bulking up the data and visualizations might help tell the larger story they seem to be hinting at. I do like how the reporters choice to highlight the highest price of each item since Trump took office, as it shows that although some prices are down, that does not guarantee they will stay that way. Providing the option to compare state-by-state statistics is also interesting, as it makes the story more applicable to wider audiences. 
