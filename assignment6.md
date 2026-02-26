@@ -6,7 +6,7 @@ This graph shows, by ward, where external use-of-force was reported to have been
 
 This data came from MPD's website, but the full dataset was uploaded to Open Data DC. This platform is also managed by the District's Office of the Chief Technology Officer. Since the data came directly from MPD and was vetted by a third party like Open Data DC, this dataset is most likely trustworthy. 
 
-Other context that would be helpful to include is what use-of-force is, when it is typically used by officers and for what crimes. It might also be good to mention how big each ward is in terms of population, as more people may mean more crime, but also fewer people with more use-of-force reports may mean there are other factors at play (like racially biased policing). Highlighting wha neighborhoods correspond to specific wards like 3, 7, 1 and 2 could also add context like household income, demographic makeup and more. 
+Other context that would be helpful to include is what use-of-force is, when it is typically used by officers and for what crimes. It might also be good to mention how big each ward is in terms of population, as more people may mean more crime, but also fewer people with more use-of-force reports may mean there are other factors at play (like racially biased policing). Highlighting wha neighborhoods correspond to specific wards like 1, 2, 3, and 7 could also add context like household income, demographic makeup and more. 
 
 
 Note: I tried to copy the iframe from Datawrapper, but it does not show the graph. I will ask you about this in class next week, but I wanted to add it here in case you were grading this beforehand. 
