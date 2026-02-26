@@ -2,13 +2,7 @@
 ## HED: MPD practices heavy policing of Black and Brown neighborhoods 
 <img width="623" height="300" alt="Screenshot 2026-02-25 at 9 16 20 PM" src="https://github.com/user-attachments/assets/9c48ee8c-c697-4851-8271-854b7f4f89c6" />
 
-300 word description here 
-
-patterns or data-points that you think deserve more emphasis or explanation;
-• reasons the dataset should be trusted;
-• other context about the graphic, the story it tells, or any broader story it fits into.
-
-This graph shows where, by ward, external use-of-force was reported to be used by officers in the most recent fiscal year from 2024 to 2025. This graph shows that there were more use-of-force cases in Wards 3 and 7, which are predominantly Black and Brown communities. The wards with the fewest reports were Wards 1 and 2, with Ward 1 being generally diverse in racial makeup and Ward 2 containing most of the city's major landmarks like the National Mall. Including this demographic information with these points helps contextualize the overarching claim that the communities with more use-of-force reports generally have more police presence and higher crime rates. However, Ward 1 having fewer reports is interesting considering its diverse population. This graph is a good start to indicating where there are more forceful police practices in the district, but the answer to why that is would need to be found through more reporting. 
+This graph shows, by ward, where external use-of-force was reported to have been used by officers in the most recent fiscal year, from 2024 to 2025. This graph shows that there were more use-of-force cases in Wards 3 and 7, which are predominantly Black and Brown communities. The wards with the fewest reports were Wards 1 and 2, with Ward 1 generally diverse in racial makeup and Ward 2 containing most of the city's major landmarks, such as the National Mall. Including this information helps contextualize the overarching claim that the communities with more use-of-force reports generally have more police presence and higher crime rates. However, Ward 1 having fewer reports is interesting considering its diverse population. This graph is a good start to indicating where there are more forceful police practices in the district, but the answer to why that is would need to be found through more reporting. 
 
 This data came from MPD's website, but the full dataset was uploaded to Open Data DC. This platform is also managed by the District's Office of the Chief Technology Officer. Since the data came directly from MPD and was vetted by a third party like Open Data DC, this dataset is most likely trustworthy. 
 
