@@ -1,6 +1,6 @@
 # Assignment 6 
 ## HED: MPD practices heavy policing of Black and Brown neighborhoods 
-<img width="623" height="300" alt="Screenshot 2026-02-25 at 9 16 20 PM" src="https://github.com/user-attachments/assets/9c48ee8c-c697-4851-8271-854b7f4f89c6" />
+<img width="620" height="296" alt="Screenshot 2026-02-26 at 11 53 00 AM" src="https://github.com/user-attachments/assets/f743b4a3-4c39-41e2-b9f9-360892af2ef9" />
 
 This graph shows, by ward, where external use-of-force was reported to have been used by officers in the most recent fiscal year, from 2024 to 2025. This graph shows that there were more use-of-force cases in Wards 3 and 7, which are predominantly Black and Brown communities. The wards with the fewest reports were Wards 1 and 2, with Ward 1 generally diverse in racial makeup and Ward 2 containing most of the city's major landmarks, such as the National Mall. Including this information helps contextualize the overarching claim that the communities with more use-of-force reports generally have more police presence and higher crime rates. However, Ward 1 having fewer reports is interesting considering its diverse population. This graph is a good start to indicating where there are more forceful police practices in the district, but the answer to why that is would need to be found through more reporting. 
 
