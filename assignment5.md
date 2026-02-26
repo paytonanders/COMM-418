@@ -1,4 +1,4 @@
-# Assignment 6 
+# Assignment 5 
 ## SQL Query: 
 SELECT *
 
