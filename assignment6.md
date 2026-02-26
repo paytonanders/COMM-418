@@ -1,3 +1,3 @@
 # Assignment 6 
 ## HED: MPD practices heavy policing of Black and Brown neighborhoods 
-<iframe title="MPD Use-of-Force Report Locations by Ward in 2024" aria-label="Bar Chart" id="datawrapper-chart-Dl5CW" src="https://datawrapper.dwcdn.net/Dl5CW/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="232" data-external="1"></iframe>
+<iframe title="MPD Use-of-Force Report Locations by Ward" aria-label="Bar Chart" id="datawrapper-chart-Dl5CW" src="https://datawrapper.dwcdn.net/Dl5CW/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="276" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
