@@ -1,1 +1,5 @@
-
+# Data Story 2026.03.24
+## <a href="https://www.heraldnet.com/2026/03/17/ice-arrests-in-snohomish-county-are-rising-uw-data-shows/">ICE arrests in Snohomish County are rising, UW data shows
+### Publication: The Daily Herald 
+### Date: March 17, 2026
+This article actually uses the same FOIA data as the Seattle Times story I cited last week, but obviously takes a different angle. With much less data visualization and more written analysis, this article shows how one data set can have several different stories. The reporters focused on the areas in Washington that saw the most ICE arrests, noting that the data was incomplete but includes the majority of arrests in 2025. A major critique I have of the last article was how it lacked a human perspective, but this article talks to immigration lawyers and other experts to add to the story. The reporters take a clear, increasing trend from the data and compare it to anecdotal evidence from interviews, which is what I think makes a good data story. I wish there were some data visualizations to emphasize this uptick, so a blend of the Seattle Times piece and this one would have made a near-perfect story. 
