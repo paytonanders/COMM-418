@@ -1,4 +1,7 @@
 # Use of Force Data from 2020 to 2024 Overview 
+<img width="617" height="410" alt="Screenshot 2026-03-18 at 1 24 08 PM" src="https://github.com/user-attachments/assets/c8b0dd81-52bb-4349-b9db-9ca47781be46" />
+<img width="620" height="414" alt="Screenshot 2026-03-18 at 1 24 52 PM" src="https://github.com/user-attachments/assets/dd83ff5d-8457-4c88-9b55-9488dca9eaf1" />
+<img width="618" height="413" alt="Screenshot 2026-03-18 at 1 25 19 PM" src="https://github.com/user-attachments/assets/fd284fdf-bfcb-4614-af2c-120bf0c86472" />
 
 In 2020, the country saw large numbers of protests and growing tension between police and citizens. The Black Lives Matter movement and advocacy to defund the police spotlighted unethical use-of-force practices across the country. As MPD began collecting and publishing its use-of-force data, looking at these three wards, which have the largest number of reported cases and are historically more racially diverse. 
 
