@@ -1,8 +1,4 @@
 # Use-of-Force Data from 2020 to 2024 Overview 
-<img width="619" height="426" alt="Screenshot 2026-03-18 at 1 24 22 PM" src="https://github.com/user-attachments/assets/99504218-0c93-4d80-8f41-3e1d37fc05a0" /> 
-
-Originally, I thought I would use a bar graph to show changes in use-of-force reports over the last four years, since MPD only started collecting and publishing this information in 2020. However, the bar graph does not reveal much. When charting the changes per reports in each ward over the years, there is a significant drop and spike in 2022 to 2023, leveling out in 2024. 
-
 <img width="617" height="410" alt="Screenshot 2026-03-18 at 1 24 08 PM" src="https://github.com/user-attachments/assets/75b7011f-b9e8-41f5-bb14-446fdda49c2d" />
 <img width="618" height="413" alt="Screenshot 2026-03-18 at 1 25 19 PM" src="https://github.com/user-attachments/assets/786864f3-cc4d-4825-98af-23e8eff9bc95" />
 <img width="620" height="414" alt="Screenshot 2026-03-18 at 1 24 52 PM" src="https://github.com/user-attachments/assets/6cf19f89-2270-461d-a1d2-e512114f06c9" />
@@ -11,6 +7,11 @@ In 2020, the country saw large numbers of protests and growing tension between p
 
 In 2022, the Comprehensive Policing and Justice Reform Amendment Act was passed, restricting use-of-force techniques, limiting police chases and enhancing public access to misconduct records. 2023 marked the city's highest violent crime rates, leading to the spike shown across each ward's line graph. 
 
-The consistently high use-of-force reports in 2024 is something that needs more reporting to help explain. As Biden left office, Trump returned with his aim to "crack down" on violent crime, specifically in the district. He painted MPD as passive and incapable of handling "violent criminals," increasing policing and surveillance in these three wards. 
+As Joe Biden left office, President Donald Trump returned with his aim to "crack down" on violent crime, specifically in the district. He painted MPD as passive and incapable of handling "violent criminals," increasing policing and surveillance in these three wards. In August, Trump initiated the federalization of D.C., citing MPD’s lack of action in reducing what he claimed were record-high crime rates. Although overall violent crime rates were down, he openly ridiculed MPD officers, blaming them for the supposed surge. 
 
-My final project will explore why the use-of-force by MPD remained consistently high after showing an initial decline in 2020 in the three most racially diverse areas. Other data to include in a graph or just in the body of my article may include the racial makeup of who was detained or arrested using forceful policing tactics across these four years. General data like the specific demographic makeup of Wards 3, 5 and 7 will also be included. 
+Although 2024 saw a slight decline in use-of-force, it remained relatively high compared to its initial decline in 2020. Use-of-force data for 2025 has not yet been released, but there are no signs of an expected decline.  
+
+Last year, the city experienced a 13 percent increase in total complaints against police officers, with excessive force allegations rising by 15 percent following the heightened federal law enforcement presence and increased aggressive policing tactics implemented under the "Make D.C. Safe & Beautiful Task Force.” 
+
+A recent D.C. Auditor report showed the city has spent $91 million in the last decade to settle cases involving police misconduct, including ones by repeat-offending officers. The police department is also under allegations of harassment, excessive force, and inappropriate conduct. 
+
