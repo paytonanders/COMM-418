@@ -13,4 +13,4 @@ In 2022, the Comprehensive Policing and Justice Reform Amendment Act was passed,
 
 The consistently high use-of-force reports in 2024 is something that needs more reporting to help explain. As Biden left office, Trump returned with his aim to "crack down" on violent crime, specifically in the district. He painted MPD as passive and incapable of handling "violent criminals," increasing policing and surveillance in these three wards. 
 
-My final project will explore why the use-of-force by MPD remained consistently high after showing an initial decline in 2020 in the three most racially diverse areas.
+My final project will explore why the use-of-force by MPD remained consistently high after showing an initial decline in 2020 in the three most racially diverse areas. Other data to include in a graph or just in the body of my article may include the racial makeup of who was detained or arrested using forceful policing tactics across these four years. General data like the specific demographic makeup of Wards 3, 5 and 7 will also be included. 
