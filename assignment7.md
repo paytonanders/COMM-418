@@ -3,7 +3,7 @@
 <img width="620" height="414" alt="Screenshot 2026-03-18 at 1 24 52 PM" src="https://github.com/user-attachments/assets/dd83ff5d-8457-4c88-9b55-9488dca9eaf1" />
 <img width="618" height="413" alt="Screenshot 2026-03-18 at 1 25 19 PM" src="https://github.com/user-attachments/assets/fd284fdf-bfcb-4614-af2c-120bf0c86472" />
 
-In 2020, the country saw large numbers of protests and growing tension between police and citizens. The Black Lives Matter movement and advocacy to defund the police spotlighted unethical use-of-force practices across the country. As MPD began collecting and publishing its use-of-force data, Wards 3, 5 and 7 have the highest rates of use-of-force reports, while also maintaining a predominantly Black and Brown demographic.  
+In 2020, the country saw large numbers of protests and growing tension between police and citizens. The Black Lives Matter movement and advocacy to defund the police spotlighted unethical use-of-force practices across the country. As MPD began collecting and publishing its use-of-force data, Wards 3, 5 and 7 have the highest rates of use-of-force reports, with Wards 5 and 7 being predominantly Black and Brown.  
 
 The data from these three areas shows a collective decline in crime after 2020, with a sudden spike in 2022. The Comprehensive Policing and Justice Reform Amendment Act was then proposed to restrict use-of-force techniques, limit police chases and enhance public access to misconduct records in response to the spike. However, 2023 still marked the city's highest violent crime rates, leading to the spike shown across each ward's line graph. 
 
