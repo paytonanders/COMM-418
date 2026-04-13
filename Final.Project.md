@@ -8,7 +8,7 @@ In August, President Donald Trump temporarily took over MPD and <a href="https:/
 
 However, MPD’s forceful policing is not a new concern, and neither is the strained relationship between law enforcement and the community. 
 
-According to its <a href="https://mpdc.dc.gov/page/reporting-use-force-summary-data#:~:text=The%20Metropolitan%20Police%20Department%20%28MPD%29%20releases%20annual,is%20reasonable%20and%20proportional%20to%20the%20threat">website</a>, MPD began publishing its use-of-force data in 2020 to increase transparency. At this time, the <a href="https://www.npr.org/sections/trial-over-killing-of-george-floyd/2021/04/20/987777911/court-says-jury-has-reached-verdict-in-derek-chauvins-murder-trial">murder</a> of George Floyd, an unarmed Black man, also mobilized a national movement to defund police. In D.C., Trump considered taking control of MPD, but Mayor Muriel Bowser and other local leaders convinced him that it would only increase tensions. 
+According to its <a href="https://mpdc.dc.gov/page/reporting-use-force-summary-data#:~:text=The%20Metropolitan%20Police%20Department%20%28MPD%29%20releases%20annual,is%20reasonable%20and%20proportional%20to%20the%20threat">website</a>, MPD began publishing its use-of-force data in 2020 to increase transparency and "maintain public trust." At this time, the <a href="https://www.npr.org/sections/trial-over-killing-of-george-floyd/2021/04/20/987777911/court-says-jury-has-reached-verdict-in-derek-chauvins-murder-trial">murder</a> of George Floyd, an unarmed Black man, also mobilized a national movement to defund police. In D.C., Trump considered taking control of MPD, but Mayor Muriel Bowser and other local leaders convinced him that it would only increase tensions. 
 
 <img width="672" height="337" alt="Screenshot 2026-04-13 at 12 41 26 PM" src="https://github.com/user-attachments/assets/327dc22d-54a4-4e06-8220-605437244f8c" />
 
@@ -65,3 +65,18 @@ Adams said the federal takeover will have lasting effects as distrust between re
 Although the use of force data for 2025 has not yet been released, Adams said she expects another increase. 
 
 “Our communities are feeling the effects of the National Guard through increased police presence and intensity of policing,” Adams said. “Whether it’s local or federal officers, residents are growing more afraid, and the administration is only reinforcing the division between us and the police.”
+
+
+Data sheets:
+
+<a href="https://docs.google.com/spreadsheets/d/1OZGcuszcQ27WL8VHglKfuKSPi4qlzA8OxfmN3N5qme0/edit?usp=sharing">2024 (main data set I cleaned and worked with)</a>
+
+<a href="https://docs.google.com/spreadsheets/d/1_UJbdAATgQfbaRWNTo-AdZCz0laWlad2/edit?usp=sharing&ouid=116928467532264593855&rtpof=true&sd=true">2023</a>
+
+<a href="https://docs.google.com/spreadsheets/d/1RGomttTPE20LpI8DXSXQtNA2ac_V6AXN/edit?usp=sharing&ouid=116928467532264593855&rtpof=true&sd=true">2022</a>
+
+<a href="https://docs.google.com/spreadsheets/d/1ojkDwxK85PCJVHcjGhvV4D9sa69iZX39SF5dHOPRs2w/edit?usp=sharing">2021</a>
+
+<a href="https://docs.google.com/spreadsheets/d/12azECmMlr8XqE9MJZU_JpftNvNXeBcRqk-Wq4P67Z88/edit?usp=sharing">2020</a>
+
+<a href="https://mpdc.dc.gov/node/1582621">MPD raw data sets</a> 
