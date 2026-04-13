@@ -22,7 +22,7 @@ In 2023, violent crime reached a <a href="https://www.washingtonpost.com/dc-md-v
 
 According to David Sklansky, professor and co-director of Stanford Law School’s Criminal Justice Center, the increase in crime in 2023 could explain the increased use of force. But overall, crime rates <a href="https://www.justice.gov/usao-dc/pr/violent-crime-dc-hits-30-year-low">declined</a> drastically in 2024, while use of force did not.  
 
-Overall complaints against MPD officers increased<a href="https://www.wusa9.com/article/news/police/dc-police-complaint-report-2025/65-fed82afb-eacd-4631-b8d0-e3d6b87f5a49">increased</a> by 13% last year, with allegations of excessive force rising by 15%.  
+Overall complaints against MPD officers <a href="https://www.wusa9.com/article/news/police/dc-police-complaint-report-2025/65-fed82afb-eacd-4631-b8d0-e3d6b87f5a49">increased</a> by 13% last year, with allegations of excessive force rising by 15%.  
 
 “There is now a similar tension that we saw in 2020,” Sklansky said. “Nationally, this police versus civilian narrative grew stronger. In D.C., there is both a call for police intervention and, simultaneously, a pushback against it.” 
 
