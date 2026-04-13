@@ -10,17 +10,25 @@ However, MPD’s forceful policing is not a new concern, and neither is the stra
 
 According to its website, MPD began publishing its use-of-force data in 2020 to increase transparency. At this time, the murder of George Floyd, an unarmed Black man, also mobilized a national movement to defund police. In D.C., Trump considered taking control of MPD, but Mayor Muriel Bowser and other local leaders convinced him that it would only increase tensions. 
 
+<img width="672" height="337" alt="Screenshot 2026-04-13 at 12 41 26 PM" src="https://github.com/user-attachments/assets/327dc22d-54a4-4e06-8220-605437244f8c" />
+
+
 In 2024, Wards 3 and 7 had the highest rates of officer use-of-force reports. Among these areas, the data shows a drop in reports in Ward 3 after 2020, followed by a sudden increase in 2023. Ward 7 did not see the same post-2020 decline but did see an increase in 2023. 
 
 In 2023, violent crime reached a record high, specifically homicides and armed carjackings, before dropping off in 2024. 
 
-According to David Sklansky, professor and co-director of Stanford Law School’s Criminal Justice Center, the increase in crime in 2023 could explain the increased use of force. But overall crime rates drastically declined in 2024, and use of force did not.  
+<img width="792" height="314" alt="Screenshot 2026-04-13 at 12 41 41 PM" src="https://github.com/user-attachments/assets/4de695ad-6160-4a61-ac58-0edf21bd4be7" />
+
+
+According to David Sklansky, professor and co-director of Stanford Law School’s Criminal Justice Center, the increase in crime in 2023 could explain the increased use of force. But overall, crime rates declined drastically in 2024, while use of force did not.  
 
 Overall complaints against MPD officers increased by 13% last year, with allegations of excessive force rising by 15%.  
 
 “There is now a similar tension that we saw in 2020,” Sklansky said. “Nationally, this police versus civilian narrative grew stronger. In D.C., there is both a call for police intervention and, simultaneously, a pushback against it.” 
 
 The demographic most subject to forceful policing is Black residents, making up 86% of all reports in 2024, 91% in 2023 and 75% in 2020. Although Ward 7 is predominantly a community of color, Ward 3 is overwhelmingly white.  
+
+<img width="662" height="402" alt="Screenshot 2026-04-13 at 12 41 50 PM" src="https://github.com/user-attachments/assets/1cae11c5-5a8f-4f20-8215-850b2db8c1fa" />
 
 Darby Hickey, senior policy counsel of the D.C. Justice Lab, said Ward 7 generally has one of the highest violent crime rates, whereas Ward 3 has one of the lowest. But the overall increase in crime in 2023, along with an increase in property crimes in Ward 3 specifically, caused residents to call for a greater law enforcement presence, Hickey said. 
 
