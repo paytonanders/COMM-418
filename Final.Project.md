@@ -28,7 +28,7 @@ Overall complaints against MPD officers <a href="https://www.wusa9.com/article/n
 
 The demographic most subject to forceful policing is Black residents, making up 86% of all reports in 2024, 91% in 2023 and 75% in 2020. Although Ward 7 is <a href="https://mchb.tvisdata.hrsa.gov/Narratives/Overview/258318d0-8dbe-46fd-9a77-385b6753e1c7#:~:text=In%202017%2C%20the%20racial,11">predominantly</a> a community of color, Ward 3 is overwhelmingly white.  
 
-<img width="662" height="402" alt="Screenshot 2026-04-13 at 12 41 50 PM" src="https://github.com/user-attachments/assets/1cae11c5-5a8f-4f20-8215-850b2db8c1fa" />
+<img width="600" height="368" alt="Screenshot 2026-04-14 at 4 30 33 PM" src="https://github.com/user-attachments/assets/973689d5-a1c6-4f3a-a3f2-3af43f01a426" />
 
 Darby Hickey, senior policy counsel of the D.C. Justice Lab, said Ward 7 generally has one of the highest violent crime rates, whereas Ward 3 has one of the lowest. But the overall increase in crime in 2023, along with an increase in property crimes in Ward 3 specifically, caused residents to call for more law enforcement, Hickey said. 
 
