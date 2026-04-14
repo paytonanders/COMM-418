@@ -8,12 +8,12 @@ In August, President Donald Trump temporarily took over MPD and <a href="https:/
 
 However, MPD’s forceful policing is not a new concern, and neither is the strained relationship between law enforcement and the community. 
 
-According to its <a href="https://mpdc.dc.gov/page/reporting-use-force-summary-data#:~:text=The%20Metropolitan%20Police%20Department%20%28MPD%29%20releases%20annual,is%20reasonable%20and%20proportional%20to%20the%20threat">website</a>, MPD began publishing its use-of-force data in 2020 to increase transparency and "maintain public trust." At this time, the <a href="https://www.npr.org/sections/trial-over-killing-of-george-floyd/2021/04/20/987777911/court-says-jury-has-reached-verdict-in-derek-chauvins-murder-trial">murder</a> of George Floyd, an unarmed Black man, also mobilized a national movement to defund police. In D.C., Trump considered taking control of MPD, but Mayor Muriel Bowser and other local leaders convinced him that it would only increase tensions. 
+According to its <a href="https://mpdc.dc.gov/page/reporting-use-force-summary-data#:~:text=The%20Metropolitan%20Police%20Department%20%28MPD%29%20releases%20annual,is%20reasonable%20and%20proportional%20to%20the%20threat">website</a>, MPD began publishing its use of force data in 2020 to increase transparency and "maintain public trust." At this time, the <a href="https://www.npr.org/sections/trial-over-killing-of-george-floyd/2021/04/20/987777911/court-says-jury-has-reached-verdict-in-derek-chauvins-murder-trial">murder</a> of George Floyd, an unarmed Black man, also mobilized a national movement to defund police. In D.C., Trump considered taking control of MPD, but Mayor Muriel Bowser and other local leaders convinced him that it would only increase tensions. 
 
 <img width="672" height="337" alt="Screenshot 2026-04-13 at 12 41 26 PM" src="https://github.com/user-attachments/assets/327dc22d-54a4-4e06-8220-605437244f8c" />
 
 
-In 2024, Wards 3 and 7 had the highest rates of officer use-of-force reports. Among these areas, the data shows a drop in reports in Ward 3 after 2020, followed by a sudden increase in 2023. Ward 7 did not see the same post-2020 decline but did see an increase in 2023. 
+In 2024, Wards 3 and 7 had the highest rates of officer use of force reports. Among these areas, the data shows a drop in reports in Ward 3 after 2020, followed by a sudden increase in 2023. Ward 7 did not see the same post-2020 decline but did see an increase in 2023. 
 
 In 2023, violent crime reached a <a href="https://www.washingtonpost.com/dc-md-va/2024/12/31/dc-crime-down-2024/">record high</a>, specifically homicides and armed carjackings, before dropping off in 2024. 
 
@@ -30,7 +30,7 @@ The demographic most subject to forceful policing is Black residents, making up 
 
 <img width="662" height="402" alt="Screenshot 2026-04-13 at 12 41 50 PM" src="https://github.com/user-attachments/assets/1cae11c5-5a8f-4f20-8215-850b2db8c1fa" />
 
-Darby Hickey, senior policy counsel of the D.C. Justice Lab, said Ward 7 generally has one of the highest violent crime rates, whereas Ward 3 has one of the lowest. But the overall increase in crime in 2023, along with an increase in property crimes in Ward 3 specifically, caused residents to call for a greater law enforcement presence, Hickey said. 
+Darby Hickey, senior policy counsel of the D.C. Justice Lab, said Ward 7 generally has one of the highest violent crime rates, whereas Ward 3 has one of the lowest. But the overall increase in crime in 2023, along with an increase in property crimes in Ward 3 specifically, caused residents to call for more law enforcement, Hickey said. 
 
 “Residents called for more protection and more police, so that’s what they were given,” Hickey said. “But that demographic doesn’t really consider what this means for their non-white neighbors.” 
 
@@ -46,9 +46,9 @@ At the Justice Lab, Hickey develops advocacy strategies to confront the historic
 
 “It all goes back to these manufactured ideas of who is a criminal based on what factors, which continue to lean toward people of color, especially the Black community,” Hickey said. “Assigning more officers will just give them more opportunities to punish who the public has already decided are criminals.” 
 
-Hickey said this criminalization of Black residents has been an ongoing issue, but Trump’s return to office has made it much worse. 
+Hickey said this criminalization of Black residents has been an ongoing issue in past years, but Trump’s return to office has made it much worse. 
 
-As President Joe Biden left office, Trump returned, intending to <a href="https://wamu.org/story/25/08/11/president-trump-federalizes-dc-police-mobilizes-the-national-guard/">address</a> the district’s “crime emergency.” He temporarily took over the MPD under Section 740 of the Home Rule Act of 1973, pushing law enforcement to detain the "bloodthirsty criminals" he claimed riddled the city. 
+At the start of 2025, Trump aimed to <a href="https://wamu.org/story/25/08/11/president-trump-federalizes-dc-police-mobilizes-the-national-guard/">address</a> the district’s “crime emergency.” He temporarily took over the MPD under Section 740 of the Home Rule Act, pushing law enforcement to detain the "bloodthirsty criminals" he claimed riddled the city. 
 
 Although the takeover <a href="https://www.npr.org/2025/09/10/nx-s1-5535534/trump-dc-police-control-expire#:~:text=But%20the%20Home%20Rule%20Act,on%20Truth%20Social%20last%20week.">ended</a> in September, the National Guard will continue patrolling D.C. streets. Kelsye Adams, a Free D.C. Project co-founder and organizing director of D.C. Vote, said the tension Mayor Bowser and officials warned of in 2020 will continue to drive how MPD officers police neighborhoods.  
 
@@ -56,7 +56,7 @@ Although the takeover <a href="https://www.npr.org/2025/09/10/nx-s1-5535534/trum
 
 According to Adams, D.C.’s lack of statehood and political autonomy heightens the influence Trump’s decisions have on the city. 
 
-“D.C. is often treated like a petry dish when it comes to testing policies and decisions before applying them to the rest of the country,” Adams said. “The takeover and how it impacted our local police is just one of many examples of that.” 
+“D.C. is often treated like a petri dish when it comes to testing policies and decisions before applying them to the rest of the country,” Adams said. “The takeover and how it impacted our local police is just one of many examples of that.” 
 
 Adams said the federal takeover will have lasting effects as distrust between residents and law enforcement continues to grow. 
 
@@ -64,7 +64,7 @@ Adams said the federal takeover will have lasting effects as distrust between re
 
 Although the use of force data for 2025 has not yet been released, Adams said she expects another increase. 
 
-“Our communities are feeling the effects of the National Guard through increased police presence and intensity of policing,” Adams said. “Whether it’s local or federal officers, residents are growing more afraid, and the administration is only reinforcing the division between us and the police.”
+“Our communities are feeling the effects of the National Guard through increased police presence and intensity of policing, whether it's from local or federal officers,” Adams said. “Residents are growing more afraid, and the administration is only reinforcing the division between us and the police.”
 
 
 Data sheets:
