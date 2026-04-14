@@ -34,7 +34,7 @@ Darby Hickey, senior policy counsel of the D.C. Justice Lab, said Ward 7 general
 
 “Residents called for more protection and more police, so that’s what they were given,” Hickey said. “But that demographic doesn’t really consider what this means for their non-white neighbors.” 
 
-In 2024, about 82% of use of force reports were made against Black individuals in Ward 3. Only about 8% of Ward 3 residents are Black, according to <a href="https://censusreporter.org/profiles/61000US11003-ward-3-dc/">recent</a> census data from 2025. 
+In 2024, about 82% of use of force reports were made against Black individuals in Ward 3. Only about 8% of Ward 3 residents are Black, according to <a href="https://censusreporter.org/profiles/61000US11003-ward-3-dc/">recent</a> census data from 2024. 
 
 Of the MPD officers who reported using force in 2024, 18% were assigned to Ward 3, increasing from 13% in 2023 and 10% in 2022. Between Wards 7 and 3, officers assigned to these areas made up 42% of last year’s use of force reports. 
 
